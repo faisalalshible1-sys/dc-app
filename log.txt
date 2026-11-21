@@ -1,0 +1,19 @@
+
+::group::✅ Passing tests
+✅ home
+✅ finance
+✅ finance views
+✅ dialogs and settings
+✅ dashboard views
+✅ contract
+✅ login and appearance
+✅ assistant
+✅ sections
+✅ documents and supervision
+✅ unit sections
+✅ rasd
+✅ schedules and prices
+✅ print center
+::endgroup::
+
+🎉 14 tests passed.
